@@ -5,8 +5,9 @@ site_author: kingxk
 theme:
   name: material          # 使用 material 主题
 
-
-
 plugins:
-  - blog             # 开启博客功能
-  - search           # 搜索功能，默认开启，显式声明以防覆盖  
+  - blog
+  - search
+  - redirects:
+      redirect_maps:
+        'index.md': 'blog/index.md'
