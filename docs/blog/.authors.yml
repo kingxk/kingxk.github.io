@@ -1,7 +1,7 @@
 # docs/blog/.authors.yml
 authors:
   your_author_id:
-    name: 你的名字
+    name: kingxk
     description: 博主 / 开发者
-    avatar: assets/iamges/avatar.jpg
-    url: https://你的个人主页或GitHub链接
+    avatar: https://kingxk.github.io/assets/images/avatar.jpg
+    url: https://kingxk.github.io
