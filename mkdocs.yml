@@ -1,0 +1,12 @@
+site_name: 我的个人博客       # 博客名称
+site_url: https://kingxk.github.io  # 后续部署的地址
+site_author: kingxk
+
+theme:
+  name: material          # 使用 material 主题
+
+
+
+plugins:
+  - blog             # 开启博客功能
+  - search           # 搜索功能，默认开启，显式声明以防覆盖  
