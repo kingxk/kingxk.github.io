@@ -4,7 +4,7 @@ site_author: kingxk
 
 theme:
   name: material          # 使用 material 主题
-
+  language: zh  # 设置为简体中文
 plugins:
   - blog
   - search
